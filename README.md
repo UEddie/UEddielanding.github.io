@@ -17,3 +17,9 @@ se tenian que hacer diferentes secciones de la misma, hasta lograr maquetar el p
 README: [README](https://github.com/UEddie/UEddielanding.github.io/blob/main/README.md "README")
 Prototipo en Paint: [Prototipo](https://github.com/UEddie/UEddielanding.github.io/blob/main/Prototipo.png "Prototipo")
 Proyecto Landing de Venta: [Landing](https://github.com/UEddie/UEddielanding.github.io/tree/main/Proyecto%20Landing%20de%20Venta "Landing")
+
+Landing de Venta
+                
+1. Lading HTML: [HTML](https://github.com/UEddie/UEddielanding.github.io/blob/main/Proyecto%20Landing%20de%20Venta/Proyecto_Landing_de_Venta.HTML "HTML")
+2. Lading CSS: [CSS](https://github.com/UEddie/UEddielanding.github.io/blob/main/Proyecto%20Landing%20de%20Venta/Proyecto_Landing_de_Venta.CSS "CSS")
+3. Lading Responsive CSS: [Responsive CSS](https://github.com/UEddie/UEddielanding.github.io/blob/main/Proyecto%20Landing%20de%20Venta/Proyecto_Landing_de_Venta_Responsive.CSS "Responsive CSS")
