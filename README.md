@@ -15,5 +15,5 @@ se tenian que hacer diferentes secciones de la misma, hasta lograr maquetar el p
 **Index**
 
 #README: [README](https://github.com/UEddie/UEddielanding.github.io/blob/main/README.md "README")
-#Prototipo en Paint: [Prototipo](https://github.com/UEddie/UEddielanding.github.io/blob/main/Prototipo.png "Prototipo")
-#Proyecto Landing de Venta: [Landing](https://github.com/UEddie/UEddielanding.github.io/tree/main/Proyecto%20Landing%20de%20Venta "Landing")
+##Prototipo en Paint: [Prototipo](https://github.com/UEddie/UEddielanding.github.io/blob/main/Prototipo.png "Prototipo")
+###Proyecto Landing de Venta: [Landing](https://github.com/UEddie/UEddielanding.github.io/tree/main/Proyecto%20Landing%20de%20Venta "Landing")
