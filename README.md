@@ -18,7 +18,7 @@ README: [README](https://github.com/UEddie/UEddielanding.github.io/blob/main/REA
 Prototipo en Paint: [Prototipo](https://github.com/UEddie/UEddielanding.github.io/blob/main/Prototipo.png "Prototipo")
 Proyecto Landing de Venta: [Landing](https://github.com/UEddie/UEddielanding.github.io/tree/main/Proyecto%20Landing%20de%20Venta "Landing")
 
-Landing de Venta
+Landing de Venta.
                 
 1. Lading HTML: [HTML](https://github.com/UEddie/UEddielanding.github.io/blob/main/Proyecto%20Landing%20de%20Venta/Proyecto_Landing_de_Venta.HTML "HTML")
 2. Lading CSS: [CSS](https://github.com/UEddie/UEddielanding.github.io/blob/main/Proyecto%20Landing%20de%20Venta/Proyecto_Landing_de_Venta.CSS "CSS")
