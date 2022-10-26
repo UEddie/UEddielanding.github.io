@@ -1,0 +1,274 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: white;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+header{
+    width: 100%;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: column;
+    background-color: black;
+}
+
+.logo{
+    display: flex;
+    margin: 0px 8%;
+    width: 500px;
+    height: 100%;
+}
+
+ul,li,a{
+    display: flex;
+    padding: 10px;
+    list-style: none;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
+
+.container{
+    width: 100%;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(4, 47, 73);
+}
+
+.subcon{
+    padding: 40px;
+    width: 100%;
+    height: 100%;
+}
+
+.textocon1{
+    font-size: 4.5rem;
+    font-weight: bolder;
+    color: #a99eae;
+}
+
+input#boton{
+    padding: 5px 50px;
+    color: white;
+    font-size: 1em;
+    background-color: #5dade2;
+    border: 1px;
+    border-radius: 10PX;
+}
+
+input#boton:hover {
+    background-color: #7abbe7;
+}
+
+.correo{
+    margin-top: 15PX;
+    border-color: black;
+    border-radius: 5px;
+    width: 250px;
+    height: 26px;
+}
+
+.con1{
+    margin-top: 15px;
+    font-size: 1.5rem;
+    line-height: 48px;
+    color: white;
+    font-weight: 600;
+}
+
+.textocon{
+    margin-top: 10px;
+    font-size: .9rem;
+    line-height: 28px;
+    color: white;
+    font-weight: 600;
+}
+
+.subcon1{
+    display: flex;
+    padding: 40px;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+}
+
+.imagen1{
+    border-radius: 1px;
+    width: 100%;
+    height: 100%;
+    grid-template-columns: auto;
+}
+
+.blog {
+    width: 100%;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.nuevo {
+    font-size: 4.5rem;
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.nuevotex{
+    margin-top: 15px;
+    font-size: 1.5rem;
+    line-height: 48px;
+    color: black;
+    font-weight: 600;
+    text-align: center;
+}
+
+.caja {
+    width: 300px;
+    height: 400px;
+    background-color: rgb(4, 47, 73);
+    margin: 30px;
+    box-shadow: 0 8px 16px 0 rgb(9, 8, 8), 0 6px 20px 0 rgb(4, 4, 5);
+    text-align: center;
+}
+
+.figuras {
+    height: 180px;
+    width: 175px;
+    margin:20px 40px 40px 65px;
+    border-radius: 0%;
+    border: 1px solid white;
+}
+
+.figura1 {
+    margin: auto;
+    text-align: center;
+    flex-direction: column;
+    color: white;
+}
+
+.descripcion1 {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 20px;
+    color: #a99eae;
+}
+
+.adicionales{
+    width: 100%;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(4, 47, 73);
+}
+
+.tituloadi {
+    font-size: 3.5rem;
+    font-weight: bolder;
+    color: #a99eae;
+}
+
+.textoadi {
+    margin-top: 20px;
+    font-size: 2rem;
+    line-height: 45px;
+    color: white;
+    font-weight: 525;
+}
+
+footer{
+    width: 100%;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    padding: 2rem 8%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+}
+
+.social-icon-container, .footer-menu-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+}
+
+.social-icon{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    border: 1px solid wheat;
+    background-image: url(https://www.pngfind.com/pngs/m/26-262399_png-file-svg-icono-facebook-png-blanco-transparent.png);
+    background-position: center;
+    background-size: 40%;
+    background-repeat: no-repeat;
+    margin: 1rem;
+}
+
+.social-icon:hover{
+    background-color: black;
+    filter: invert(1);
+}
+
+.social-icon:nth-last-of-type(2){
+    background-image: url(https://w7.pngwing.com/pngs/343/766/png-transparent-logo-computer-icons-white-instagram-logo-desktop-wallpaper-spot-color.png);
+}
+
+.social-icon:nth-last-of-type(3){
+    background-image: url(https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head.png);
+}
+
+.social-icon:nth-last-of-type(4){
+    background-image: url(https://static.vecteezy.com/system/resources/previews/005/424/877/non_2x/twitter-editorial-mobile-logo-free-vector.jpg);
+}
+
+.footer-menu-container{
+    list-style-type: none;
+    color: black;
+    font-size: 18px;
+}
+
+.menu-item{
+    margin: 1rem 1.5rem;
+    cursor: pointer;
+    opacity: 0.6;
+}
+
+.menu-item:hover{
+    opacity: 1;
+}
+
+.copyright{
+    color: white;
+    opacity: 0.3;
+    text-align: center;
+}
